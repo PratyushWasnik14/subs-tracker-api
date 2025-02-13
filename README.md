@@ -17,4 +17,3 @@ A **scalable and secure Subscription Management System API** designed to handle 
 - **Security:** JWT Authentication, Arcjet Protection  
 - **Email Services:** Upstash  
 
-💡 *Need help?* Join our **Discord community** and connect with **50k+ developers** to troubleshoot, collaborate, and share knowledge.  
